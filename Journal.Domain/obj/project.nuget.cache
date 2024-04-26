@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAvPnK8Y49hGnp0Up5T1bGtBzQY4Uapa9xWs6kWvIP8SIAoOVE4LSUpVj5TLjH3lzIwMDTdtI9b9Pzqp5kSq9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Altyndai\\RiderProjects\\Journal\\Journal.Domain\\Journal.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.aspnetcore.http.features\\6.0.0-preview.4.21253.5\\microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.memory.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencyinjection.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.3.24172.9\\microsoft.extensions.logging.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.logging.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.3.24172.9\\microsoft.extensions.options.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.3.24172.9\\microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\system.io.pipelines\\6.0.0-preview.4.21253.7\\system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
+  "logs": []
+}

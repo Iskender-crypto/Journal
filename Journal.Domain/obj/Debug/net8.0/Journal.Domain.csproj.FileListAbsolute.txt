@@ -1,0 +1,12 @@
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\bin\Debug\net8.0\Journal.Domain.deps.json
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\bin\Debug\net8.0\Journal.Domain.dll
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\bin\Debug\net8.0\Journal.Domain.pdb
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.csproj.AssemblyReference.cache
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.AssemblyInfoInputs.cache
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.AssemblyInfo.cs
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.dll
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\refint\Journal.Domain.dll
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.pdb
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\ref\Journal.Domain.dll
