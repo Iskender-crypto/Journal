@@ -1,4 +1,4 @@
-using Cms.Domain.Models;
+using Journal.Domain.Models;
 
 namespace Cms.Domain.Services;
 

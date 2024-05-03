@@ -10,3 +10,7 @@ C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\obj\Debug\net8
 C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\obj\Debug\net8.0\refint\Journal.Infrastructure.Ef.dll
 C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\obj\Debug\net8.0\Journal.Infrastructure.Ef.pdb
 C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\obj\Debug\net8.0\ref\Journal.Infrastructure.Ef.dll
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\bin\Debug\net8.0\Journal.Domain.dll
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\bin\Debug\net8.0\Journal.Domain.pdb
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\obj\Debug\net8.0\Journal.Infrastructure.Ef.sourcelink.json
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Infrastructure.Ef\obj\Debug\net8.0\Journal.Infrastructure.Ef.csproj.CopyComplete

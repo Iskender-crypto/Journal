@@ -60,6 +60,12 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -186,7 +192,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Altyndai\\RiderProjects\\Journal\\Journal.Domain\\Journal.Domain.csproj": {
+                "projectPath": "C:\\Users\\Altyndai\\RiderProjects\\Journal\\Journal.Domain\\Journal.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

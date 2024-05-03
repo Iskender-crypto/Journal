@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IinQFu/mZOrGxJ1VXZ2+Yj8uBhPp0XDkPa+qH62LeBQGpycGiH2uOJ9GZ0oSBjNNWz/FNxG+T8ii5otfeeOgIg==",
+  "dgSpecHash": "cQRe2wj9tmWxVceFvDug0F93DNrb3+QZGWbx6JI9qLb/mD2Gi6AwcYxCeNrVMHULK9vnT3NP7uD+vWDUgm15lw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Altyndai\\RiderProjects\\Journal\\Journal.Infrastructure.Ef\\Journal.Infrastructure.Ef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.0-preview.3.24172.13\\microsoft.aspnetcore.cryptography.internal.9.0.0-preview.3.24172.13.nupkg.sha512",
     "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.0-preview.3.24172.13\\microsoft.aspnetcore.cryptography.keyderivation.9.0.0-preview.3.24172.13.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.aspnetcore.http.features\\6.0.0-preview.4.21253.5\\microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
     "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.4\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512",
     "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512",
@@ -24,7 +25,8 @@
     "C:\\Users\\Altyndai\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.3.24172.9\\microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512",
     "C:\\Users\\Altyndai\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
     "C:\\Users\\Altyndai\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.0-preview.3\\npgsql.entityframeworkcore.postgresql.9.0.0-preview.3.nupkg.sha512",
-    "C:\\Users\\Altyndai\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\Altyndai\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Altyndai\\.nuget\\packages\\system.io.pipelines\\6.0.0-preview.4.21253.7\\system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,4 @@
-
-using Cms.Infrastructure.Ef;
+using Journal.Infrastructure.Ef;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

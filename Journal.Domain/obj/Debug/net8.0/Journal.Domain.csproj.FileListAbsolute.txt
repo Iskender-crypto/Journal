@@ -10,3 +10,4 @@ C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.
 C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\refint\Journal.Domain.dll
 C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.pdb
 C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\ref\Journal.Domain.dll
+C:\Users\Altyndai\RiderProjects\Journal\Journal.Domain\obj\Debug\net8.0\Journal.Domain.sourcelink.json

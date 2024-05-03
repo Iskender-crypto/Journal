@@ -1,4 +1,4 @@
-namespace Cms.Domain.Utils;
+namespace Journal.Domain.Utils;
 
 public static class FolderUtils
 {

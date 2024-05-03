@@ -1,6 +1,6 @@
 // using Cms.Domain.Entities;
 
-namespace Cms.Domain.Models;
+namespace Journal.Domain.Models;
 
 public class LoginModel
 {

@@ -1,8 +1,8 @@
 ﻿using System.Linq.Expressions;
-using Cms.Domain.Models;
-using Cms.Domain.Utils;
-using Cms.Infrastructure.Ef;
+using Journal.Domain.Utils;
 using Journal.Domain.Entities;
+using Journal.Domain.Models;
+using Journal.Infrastructure.Ef;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

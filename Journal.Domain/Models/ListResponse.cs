@@ -1,4 +1,4 @@
-﻿namespace Cms.Domain.Models;
+﻿namespace Journal.Domain.Models;
 
 public class ListResponse<TEntity>
 {

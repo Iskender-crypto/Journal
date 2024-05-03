@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Http;
 
-namespace Cms.Domain.Utils;
+namespace Journal.Domain.Utils;
 
 public static class FileUtils
 {
@@ -11,7 +11,7 @@ public static class FileUtils
         var data = ms.ToArray();
         return data;
     }
-
+    
     public static async Task SaveToFileSystemAsync(string path, byte[] data)
     {
         await using var fs = new FileStream(path, FileMode.OpenOrCreate);

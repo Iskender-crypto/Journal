@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace Cms.Domain.Models;
+namespace Journal.Domain.Models;
 
 public class Filter
 {

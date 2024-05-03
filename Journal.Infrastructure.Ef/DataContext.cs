@@ -1,13 +1,9 @@
 ﻿using System.Reflection;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-
-
-
-
 using Microsoft.EntityFrameworkCore;
 
-namespace Cms.Infrastructure.Ef;
+namespace Journal.Infrastructure.Ef;
 
 public class DataContext(DbContextOptions options) : IdentityDbContext<IdentityUser>(options)
 {

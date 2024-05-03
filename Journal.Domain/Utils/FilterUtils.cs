@@ -1,6 +1,6 @@
-﻿using Cms.Domain.Models;
+﻿using Journal.Domain.Models;
 
-namespace Cms.Domain.Utils;
+namespace Journal.Domain.Utils;
 using System.Text.Json;
 
 public static class FilterUtils
